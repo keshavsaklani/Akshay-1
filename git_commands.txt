@@ -11,3 +11,7 @@ for changing a branch : git checkout -b "branch name"
                           set up remote as a mirror to push to or fetch from
 
  git remote add origin https://github.com/Akshay-chauhan-ai/Akshay.git
+
+gir remote rm origin : use to delete the origin
+
+git push -u origin master: to push
