@@ -15,3 +15,5 @@ for changing a branch : git checkout -b "branch name"
 gir remote rm origin : use to delete the origin
 
 git push -u origin master: to push
+
+new..
