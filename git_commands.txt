@@ -3,11 +3,17 @@ for changing a branch : git checkout -b "branch name"
 
 -f, --fetch           fetch the remote branches
     --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
+                          or do not fetch any tag at allgit  (--no-tags)
     -t, --track <branch>  branch(es) to track
     -m, --master <branch>
                           master branch
     --mirror[=(push|fetch)]
-                          set up remote as a mirror to push to or fetch from
-
+                         set up remote as a mirror to push to or fetch from
+ 
  git remote add origin https://github.com/Akshay-chauhan-ai/Akshay.git
+
+gir remote rm origin : use to delete the origin
+
+git push -u origin master: to push
+
+git commit -m"anything"
