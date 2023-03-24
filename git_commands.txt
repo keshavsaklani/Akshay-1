@@ -10,3 +10,4 @@ for changing a branch : git checkout -b "branch name"
     --mirror[=(push|fetch)]
                           set up remote as a mirror to push to or fetch from
 
+ git remote add origin https://github.com/Akshay-chauhan-ai/Akshay.git
