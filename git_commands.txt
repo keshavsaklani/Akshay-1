@@ -1,0 +1,2 @@
+for making copy file use : click shift and insert
+for changing a branch : git checkout -b "branch name"
